@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chen Peng"
 title_separator          : "-"
 name                     : &name "Chen Peng"
-description              : &description "Ph.D student at University of Southern California"
+description              : &description "Ph.D. student at University of Southern California"
 url                      : https://Chen-Peng-98.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""
 repository               : "Chen-Peng-98/Chen-Peng-98.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chen Peng"
   avatar           : "profile.jpg"
-  bio              : "Ph.D student at University of Southern California"
+  bio              : "Ph.D. student at University of Southern California"
   location         : "Los Angeles, California"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
