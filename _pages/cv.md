@@ -12,11 +12,11 @@ redirect_from:
 ---
 
 ## Education
-* B.S. in Electrical and Computer Engineering, Minor in Data Science, Shanghai Jiao Tong University, 2016 - 2020
-* Undergraduate Exchange Program, North Carolina State University, 2019
-* Ph.D in Electrical Engineering, University of Southern California, 2020 - Present
+* B.S. in Electrical and Computer Engineering, Minor in Data Science, Shanghai Jiao Tong University, 2016 - 2020  
+* Undergraduate Exchange Program, North Carolina State University, 2019  
+* Ph.D in Electrical Engineering, University of Southern California, 2020 - Present  
 
-## Research Interests
+## Research Interests  
 Communication Network, cognitive radio, underwater communication
 
 <!-- Work experience
