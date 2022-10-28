@@ -19,6 +19,10 @@ redirect_from:
 ## Research Interests  
 Communication Network, cognitive radio, underwater communication
 
+[Download CV here](http://Chen-Peng-98.github.io/files/CV.pdf)
+
+
+
 <!-- Work experience
 ======
 * Summer 2015: Research Assistant
