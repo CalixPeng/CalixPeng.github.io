@@ -5,12 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Journal Articles
+"Interference-Constrained Scheduling of a Cognitive Multihop Underwater Acoustic Network", **Chen Peng** and Urbashi Mitra, submitted to *IEEE Journal of Oceanic Engineering*. 
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## Conference Articles
+"Decentralized Scheduling of a Cognitive Multihop Underwater Acoustic Network with Interference Constraint", **Chen Peng** and Urbashi Mitra, accepted by *The 16th International Conference on Underwater Networks & Systems*.
