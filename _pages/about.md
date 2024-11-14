@@ -10,12 +10,12 @@ redirect_from:
 
 ## Organization
 Ming Hsieh Department of Electrical & Computer Engineering  
-University of Southern California  
+University of Southern California
 PhD Advisor: **Prof. Urbashi Mitra**
 
 ## Research Interests
-Communication Network, cognitive radio, underwater communication
+Causal Inference, Reinforcement Learning, Sequential Decision Making, Wireless Networks
 
 ## Contact Information
-**Email**: cpeng732@usc.edu  
-**Phone**: 213-590-9405 
+**Email**: cpeng732@usc.edu
+**Phone**: 213-590-9405
