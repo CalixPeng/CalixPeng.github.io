@@ -11,6 +11,7 @@ redirect_from:
 ## Organization
 Ming Hsieh Department of Electrical & Computer Engineering  
 University of Southern California
+
 PhD Advisor: **Prof. Urbashi Mitra**
 
 ## Research Interests
