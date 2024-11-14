@@ -17,9 +17,9 @@ redirect_from:
 * PhD in Electrical Engineering, University of Southern California, 2020 - Present  
 
 ## Research Interests  
-Communication Network, cognitive radio, underwater communication
+Causal Inference, Reinforcement Learning, Sequential Decision Making, Wireless Networks
 
-[Download CV here](http://Chen-Peng-98.github.io/files/CV.pdf)
+[Download CV here](http://Chen-Peng-98.github.io/files/CV_Chen.pdf)
 
 
 
