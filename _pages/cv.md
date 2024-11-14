@@ -19,9 +19,11 @@ redirect_from:
 ## Research Interests  
 Causal Inference, Reinforcement Learning, Sequential Decision Making, Wireless Networks
 
+## Skills
+* Computer languages and tools: Python (numpy, pytorch), C/C++, MATLAB; ns-3, GNURadio, USRP (UHD)
+* Theory: machine learning and deep learning, causal inference, information theory, digital signal processing, wireless communications
+
 [Download CV here](http://Chen-Peng-98.github.io/files/CV_Chen.pdf)
-
-
 
 <!-- Work experience
 ======
