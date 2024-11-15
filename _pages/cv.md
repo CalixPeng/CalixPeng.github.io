@@ -10,8 +10,6 @@ redirect_from:
 {% include base_path %}
 
 ---
-[Detailed CV in PDF](http://Chen-Peng-98.github.io/files/CV_Chen.pdf)  
-
 ## Education
 * BS in Electrical and Computer Engineering, Minor in Data Science, Shanghai Jiao Tong University, 2016 - 2020  
 * Undergraduate Exchange Program, North Carolina State University, 2019  
@@ -32,7 +30,9 @@ Causal Inference, Reinforcement Learning, Sequential Decision Making, Wireless N
 ## Scholarship and Honors
 * National Scholarship, Ministry of Education of China, 2017
 * Outstanding Poster Award, Dept. of Electrical & Computer Engineering (USC), 2023
-* Student Paper Contest Finalist, Asilomar SSC Conference, 2024
+* Student Paper Contest Finalist, Asilomar SSC Conference, 2024  
+
+[Detailed CV in PDF](http://Chen-Peng-98.github.io/files/CV_Chen.pdf)  
 
 <!-- Work experience
 ======
