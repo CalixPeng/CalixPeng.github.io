@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ---
+[Detailed CV in PDF](http://Chen-Peng-98.github.io/files/CV_Chen.pdf)  
 
 ## Education
 * BS in Electrical and Computer Engineering, Minor in Data Science, Shanghai Jiao Tong University, 2016 - 2020  
@@ -19,11 +20,19 @@ redirect_from:
 ## Research Interests  
 Causal Inference, Reinforcement Learning, Sequential Decision Making, Wireless Networks
 
+## Projects
+* Sequential decision-making for cognitive medium access in underwater acoustic networks.
+* Space-time fair scheduling of wireless networks via approximate planning.
+* Low complexity causal graph identification and uncertainty evaluation for causal bandits.
+
 ## Skills
 * Computer languages and tools: Python (numpy, pytorch), C/C++, MATLAB; ns-3, GNURadio, USRP (UHD)
-* Theory: machine learning and deep learning, causal inference, information theory, digital signal processing, wireless communications
+* Theory: machine learning and deep learning, causal inference, information theory, digital signal processing, wireless communications  
 
-[Download CV here](http://Chen-Peng-98.github.io/files/CV_Chen.pdf)
+## Scholarship and Honors
+* National Scholarship, Ministry of Education of China, 2017
+* Outstanding Poster Award, Dept. of Electrical & Computer Engineering (USC), 2023
+* Student Paper Contest Finalist, Asilomar SSC Conference, 2024
 
 <!-- Work experience
 ======
