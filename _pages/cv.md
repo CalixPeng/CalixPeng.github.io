@@ -32,7 +32,7 @@ Causal Inference, Reinforcement Learning, Sequential Decision Making, Wireless N
 * Outstanding Poster Award, Dept. of Electrical & Computer Engineering (USC), 2023
 * Student Paper Contest Finalist, Asilomar SSC Conference, 2024  
 
-[Detailed CV in PDF](http://Chen-Peng-98.github.io/files/CV_Chen.pdf)  
+[Detailed CV in PDF](http://CalixPeng.github.io/files/CV_Chen.pdf)  
 
 <!-- Work experience
 ======
