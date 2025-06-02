@@ -35,4 +35,4 @@ This project considers the causal bandit problem, in which the objective is to s
   <img src="../images/causal_graph.png" style="max-width:60%; height:auto;">
 </p>
 
-Related Papers: [ICASSP_24](https://ieeexplore.ieee.org/abstract/document/10445823)  
+Related Papers: [ICASSP_24](https://ieeexplore.ieee.org/abstract/document/10445823), [TSP_25](https://ieeexplore.ieee.org/abstract/document/10976570)
