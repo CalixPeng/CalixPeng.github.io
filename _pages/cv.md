@@ -16,21 +16,22 @@ redirect_from:
 * PhD in Electrical Engineering, University of Southern California, 2020 - Present  
 
 ## Research Interests  
-Causal Inference, Reinforcement Learning, Sequential Decision Making, Wireless Networks
+Causal Discovery, Reinforcement Learning, Wireless Networks
 
 ## Projects
 * Sequential decision-making for cognitive medium access in underwater acoustic networks.
 * Space-time fair scheduling of wireless networks via approximate planning.
 * Low complexity causal graph identification and uncertainty evaluation for causal bandits.
+* Efficient causal discovery with soft interventions.
 
 ## Skills
 * Computer languages and tools: Python (numpy, pytorch), C/C++, MATLAB; ns-3, GNURadio, USRP (UHD)
-* Theory: machine learning and deep learning, causal inference, information theory, digital signal processing, wireless communications  
+* Theory: machine learning and deep learning, causal inference, information theory, wireless communications, digital signal processing
 
 ## Scholarship and Honors
 * National Scholarship, Ministry of Education of China, 2017
 * Outstanding Poster Award, Dept. of Electrical & Computer Engineering (USC), 2023
-* Student Paper Contest Finalist, Asilomar SSC Conference, 2024  
+* Student Paper Contest Finalist, Asilomar SSC Conference, 2024
 
 [Detailed CV in PDF](http://CalixPeng.github.io/files/CV_Chen.pdf)  
 
