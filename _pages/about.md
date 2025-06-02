@@ -14,12 +14,13 @@ University of Southern California \
 PhD Advisor: **Prof. Urbashi Mitra**
 
 ## Research Interests
-Causal Inference, Reinforcement Learning, Sequential Decision Making, Wireless Networks
+Causal Discovery, Reinforcement Learning, Wireless Networks
 
 ## Research Projects
 * Sequential decision-making for cognitive medium access in underwater acoustic networks.
 * Space-time fair scheduling of wireless networks via approximate planning.
 * Low complexity causal graph identification and uncertainty evaluation for causal bandits.
+* Efficient causal discovery with soft interventions.
 
 ## Scholarship and Honors ##
 * National Scholarship, Ministry of Education of China, 2017
