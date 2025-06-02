@@ -20,7 +20,7 @@ Causal Discovery, Reinforcement Learning, Wireless Networks
 * Sequential decision-making for cognitive medium access in underwater acoustic networks.
 * Space-time fair scheduling of wireless networks via approximate planning.
 * Low complexity causal graph identification and uncertainty evaluation for causal bandits.
-* Efficient causal discovery with soft interventions.
+* Efficient causal discovery with soft intervention.
 
 ## Scholarship and Honors ##
 * National Scholarship, Ministry of Education of China, 2017
